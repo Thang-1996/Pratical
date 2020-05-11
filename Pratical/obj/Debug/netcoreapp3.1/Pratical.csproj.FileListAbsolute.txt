@@ -1,0 +1,13 @@
+C:\Users\minht\RiderProjects\Pratical\Pratical\bin\Debug\netcoreapp3.1\Pratical.exe
+C:\Users\minht\RiderProjects\Pratical\Pratical\bin\Debug\netcoreapp3.1\Pratical.deps.json
+C:\Users\minht\RiderProjects\Pratical\Pratical\bin\Debug\netcoreapp3.1\Pratical.runtimeconfig.json
+C:\Users\minht\RiderProjects\Pratical\Pratical\bin\Debug\netcoreapp3.1\Pratical.runtimeconfig.dev.json
+C:\Users\minht\RiderProjects\Pratical\Pratical\bin\Debug\netcoreapp3.1\Pratical.dll
+C:\Users\minht\RiderProjects\Pratical\Pratical\bin\Debug\netcoreapp3.1\Pratical.pdb
+C:\Users\minht\RiderProjects\Pratical\Pratical\obj\Debug\netcoreapp3.1\Pratical.csprojAssemblyReference.cache
+C:\Users\minht\RiderProjects\Pratical\Pratical\obj\Debug\netcoreapp3.1\Pratical.csproj.CoreCompileInputs.cache
+C:\Users\minht\RiderProjects\Pratical\Pratical\obj\Debug\netcoreapp3.1\Pratical.AssemblyInfoInputs.cache
+C:\Users\minht\RiderProjects\Pratical\Pratical\obj\Debug\netcoreapp3.1\Pratical.AssemblyInfo.cs
+C:\Users\minht\RiderProjects\Pratical\Pratical\obj\Debug\netcoreapp3.1\Pratical.dll
+C:\Users\minht\RiderProjects\Pratical\Pratical\obj\Debug\netcoreapp3.1\Pratical.pdb
+C:\Users\minht\RiderProjects\Pratical\Pratical\obj\Debug\netcoreapp3.1\Pratical.genruntimeconfig.cache
